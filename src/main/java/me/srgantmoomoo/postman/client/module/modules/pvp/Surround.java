@@ -1,3 +1,4 @@
+// Some code may be taken from gamesense which is lisenced seperatly under GPLv3                 
 package me.srgantmoomoo.postman.client.module.modules.pvp;
 
 import static me.srgantmoomoo.postman.api.util.world.BlockUtils.faceVectorPacketInstant;
